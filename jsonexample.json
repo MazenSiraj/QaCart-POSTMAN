@@ -1,0 +1,46 @@
+{
+    "courses":[
+        {
+            "id":1,
+            "name":"Selenium",
+            "description":"Full Selenium Course in Arabic",
+            "Author":"Hatem Hatamleh",
+            "isActive":true,
+            "videos":[
+                {
+                    "id":1,
+                    "title":"Selenium Introduction",
+                    "url":"https://youtube.com"
+                },
+                {
+                    "id":2,
+                    "title":"Selenium Installation",
+                    "url":"https://youtube.com"
+                }
+                    
+
+            ] 
+        },
+        {
+            "id":1,
+            "name":"Appuim in Arabic",
+            "description":"Full Appuim Course in Arabic",
+            "Author":"Hatem Hatamleh",
+            "isActive":false,
+            "videos":[
+                {
+                    "id":1,
+                    "title":"Appuim Introduction",
+                    "url":"https://youtube.com"
+                },
+                {
+                    "id":2,
+                    "title":"Appuim Installation",
+                    "url":"https://youtube.com"
+                }
+                    
+
+            ]
+        }
+    ]
+}
